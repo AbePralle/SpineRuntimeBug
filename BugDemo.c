@@ -108,9 +108,12 @@ void compute_drawing_coordinates( spSkeleton* skeleton )
     }
   }
 
-  float delta_x = max_x - min_x;
-  float delta_y = max_y - min_y;
-  float max_delta = (delta_x > delta_y) ? delta_x : delta_y;
+  if (tracking_min_max)
+  {
+    float delta_x = max_x - min_x;
+    float delta_y = max_y - min_y;
+    float max_delta = (delta_x > delta_y) ? delta_x : delta_y;
 
-  printf( "Max size of drawing area: %.0f\n", max_delta );
+    printf( "Max size of drawing area: %.0f\n", max_delta );
+  }
 }
