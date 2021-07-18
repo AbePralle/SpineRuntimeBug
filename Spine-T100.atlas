@@ -1,0 +1,1038 @@
+Spine-T100.png
+	size: 2048, 512
+	filter: Linear, Linear
+	repeat: xy
+	pma: true
+	scale: 0.125
+Archer/Images/Bowstring
+	bounds: 912, 238, 42, 71
+	rotate: 90
+Archer/Images/Fingers
+	bounds: 379, 228, 7, 16
+	offsets: 1, 1, 8, 18
+	rotate: 90
+Archer/Images/Thumb
+	bounds: 1242, 384, 12, 11
+	offsets: 0, 1, 13, 13
+Archer/Images/arrow
+	bounds: 185, 357, 109, 9
+	offsets: 1, 1, 111, 11
+Archer/Images/body
+	bounds: 258, 228, 119, 127
+Archer/Images/body2
+	bounds: 384, 393, 118, 81
+	rotate: 90
+Archer/Images/body_v2
+	bounds: 283, 12, 91, 127
+	offsets: 0, 0, 119, 127
+Archer/Images/body_v22
+	bounds: 1033, 154, 19, 27
+	offsets: 0, 0, 25, 27
+Archer/Images/bow
+	bounds: 821, 275, 72, 80
+Archer/Images/ef1
+	bounds: 1130, 448, 25, 20
+Archer/Images/ef2
+	bounds: 1196, 448, 13, 23
+Archer/Images/ef3
+	bounds: 390, 1, 25, 11
+Archer/Images/ef4
+	bounds: 203, 1, 9, 3
+Archer/Images/eye
+	bounds: 417, 1, 25, 11
+Archer/Images/hair
+	bounds: 348, 141, 36, 52
+Archer/Images/hand
+	bounds: 1127, 405, 41, 20
+	rotate: 90
+Archer/Images/hand R
+	bounds: 1036, 183, 53, 19
+	offsets: 1, 1, 55, 20
+	rotate: 90
+Archer/Images/hand2
+	bounds: 1264, 451, 16, 14
+	offsets: 1, 1, 18, 16
+Archer/Images/hand3
+	bounds: 1145, 364, 39, 16
+	offsets: 0, 0, 42, 16
+	rotate: 90
+Archer/Images/hand_R1
+	bounds: 1122, 1, 19, 15
+Archer/Images/hand_R12
+	bounds: 1079, 1, 41, 15
+Archer/Images/hand_l
+	bounds: 1086, 282, 37, 19
+	rotate: 90
+Archer/Images/head
+	bounds: 958, 96, 56, 49
+	rotate: 90
+Archer/Images/head2
+	bounds: 1218, 238, 19, 17
+Archer/Images/head3
+	bounds: 1242, 397, 19, 17
+	rotate: 90
+Archer/Images/tail
+	bounds: 586, 38, 101, 38
+	rotate: 90
+Archer/Images/tail_2
+	bounds: 172, 166, 23, 38
+	rotate: 90
+Axor/Images/Axe
+	bounds: 203, 6, 78, 133
+	offsets: 0, 1, 78, 134
+Axor/Images/Axe_e2
+	bounds: 402, 195, 11, 20
+	offsets: 1, 1, 13, 22
+	rotate: 90
+Axor/Images/Axe_ef
+	bounds: 1143, 1, 17, 31
+	offsets: 1, 0, 19, 32
+	rotate: 90
+Axor/Images/Axe_sprite
+	bounds: 92, 1, 78, 138
+	offsets: 0, 1, 78, 140
+Axor/Images/Chain_t
+	bounds: 435, 238, 75, 117
+	offsets: 1, 0, 76, 118
+Axor/Images/Fastener
+	bounds: 1145, 324, 33, 38
+	offsets: 1, 0, 35, 39
+Axor/Images/Hand_L3_ON
+	bounds: 1132, 471, 40, 34
+	offsets: 0, 1, 41, 36
+	rotate: 90
+Axor/Images/Hand_L3_ON2
+	bounds: 1109, 329, 40, 34
+	offsets: 0, 1, 41, 36
+	rotate: 90
+Axor/Images/Hand_L3_anger
+	bounds: 1090, 71, 28, 24
+	rotate: 90
+Axor/Images/Leg_L1
+	bounds: 846, 1, 51, 67
+	offsets: 1, 0, 52, 67
+Axor/Images/Leg_L_v2_2
+	bounds: 801, 238, 64, 32
+	offsets: 0, 2, 65, 35
+Axor/Images/Leg_R3
+	bounds: 371, 195, 31, 29
+	offsets: 1, 1, 33, 31
+	rotate: 90
+Axor/Images/body
+	bounds: 615, 266, 74, 89
+	offsets: 2, 1, 77, 90
+Axor/Images/body2
+	bounds: 657, 147, 67, 89
+	offsets: 9, 1, 77, 90
+Axor/Images/chain_New
+	bounds: 883, 157, 62, 79
+	offsets: 1, 0, 64, 80
+Axor/Images/chain_New2
+	bounds: 1108, 18, 51, 21
+	offsets: 1, 0, 53, 21
+	rotate: 90
+Axor/Images/chain_axe
+	bounds: 467, 405, 95, 106
+Axor/Images/chain_axe2
+	bounds: 169, 361, 150, 14
+	rotate: 90
+Axor/Images/chain_ext_0
+	bounds: 1055, 1, 22, 14
+	offsets: 0, 0, 22, 15
+Axor/Images/ef_3
+	bounds: 615, 254, 8, 10
+	offsets: 2, 1, 13, 13
+Axor/Images/fingers
+	bounds: 947, 154, 23, 29
+	offsets: 0, 0, 24, 30
+	rotate: 90
+Axor/Images/hand_L1
+	bounds: 1063, 321, 44, 48
+	offsets: 1, 0, 45, 49
+Axor/Images/hand_L12
+	bounds: 1182, 105, 40, 47
+	offsets: 0, 0, 42, 47
+Axor/Images/hand_L2
+	bounds: 626, 238, 45, 26
+	offsets: 0, 0, 45, 27
+Axor/Images/hand_L3_back
+	bounds: 1206, 280, 16, 22
+	offsets: 0, 1, 17, 24
+Axor/Images/hand_R1
+	bounds: 1002, 183, 32, 53
+	offsets: 0, 0, 33, 54
+Axor/Images/hand_R2_OFF_Shadow
+	bounds: 212, 325, 30, 44
+	offsets: 1, 1, 31, 46
+	rotate: 90
+Axor/Images/hand_R3
+	bounds: 987, 71, 23, 25
+	offsets: 1, 2, 25, 28
+	rotate: 90
+Axor/Images/hand_R_2
+	bounds: 1063, 282, 21, 37
+Axor/Images/hand_n1
+	bounds: 1211, 448, 28, 24
+	rotate: 90
+Axor/Images/head
+	bounds: 215, 141, 52, 65
+	offsets: 1, 1, 54, 67
+	rotate: 90
+Axor/Images/leg_L2
+	bounds: 1105, 103, 34, 49
+	offsets: 1, 1, 36, 50
+Axor/Images/leg_L3
+	bounds: 1190, 378, 32, 29
+	offsets: 1, 0, 34, 30
+	rotate: 90
+Axor/Images/leg_Lv2_1png
+	bounds: 1137, 188, 24, 48
+	offsets: 0, 0, 24, 50
+Axor/Images/leg_R1
+	bounds: 937, 441, 61, 70
+	offsets: 0, 1, 62, 71
+Axor/Images/leg_R2
+	bounds: 1218, 23, 39, 46
+	offsets: 0, 1, 40, 47
+Axor/Images/leg_R22
+	bounds: 1037, 238, 22, 42
+	offsets: 0, 0, 22, 43
+Axor/Images/leg_Rs2
+	bounds: 1110, 470, 41, 20
+	rotate: 90
+Axor/Images/leg_Rs3
+	bounds: 1029, 282, 18, 32
+	offsets: 0, 1, 19, 33
+	rotate: 90
+Axor/Images/leg_Rv2
+	bounds: 895, 282, 36, 74
+	offsets: 2, 0, 39, 74
+Axor/Images/shield
+	bounds: 209, 195, 47, 128
+	offsets: 1, 0, 49, 128
+Axor/Images/shield_sprite
+	bounds: 172, 191, 132, 35
+	offsets: 0, 0, 132, 36
+	rotate: 90
+Axor/Images/trousers
+	bounds: 681, 357, 49, 77
+	offsets: 0, 1, 50, 80
+	rotate: 90
+Gladiator/Images/Kneepads
+	bounds: 747, 238, 25, 27
+ShieldGladiator/Images/Kneepads
+	bounds: 747, 238, 25, 27
+Gladiator/Images/Leg_L2
+	bounds: 979, 370, 47, 69
+ShieldGladiator/Images/Leg_L2
+	bounds: 979, 370, 47, 69
+Gladiator/Images/Leg_L22
+	bounds: 933, 289, 41, 70
+ShieldGladiator/Images/Leg_L22
+	bounds: 933, 289, 41, 70
+Gladiator/Images/Leg_R
+	bounds: 1000, 442, 47, 69
+ShieldGladiator/Images/Leg_R
+	bounds: 1000, 442, 47, 69
+Gladiator/Images/Scapular
+	bounds: 1095, 188, 48, 40
+	rotate: 90
+ShieldGladiator/Images/Scapular
+	bounds: 1095, 188, 48, 40
+	rotate: 90
+Gladiator/Images/body
+	bounds: 691, 267, 88, 88
+ShieldGladiator/Images/body
+	bounds: 691, 267, 88, 88
+Gladiator/Images/body2
+	bounds: 1237, 451, 25, 25
+ShieldGladiator/Images/body2
+	bounds: 1237, 451, 25, 25
+Gladiator/Images/body_t
+	bounds: 859, 434, 77, 46
+	rotate: 90
+ShieldGladiator/Images/body_t
+	bounds: 859, 434, 77, 46
+	rotate: 90
+Gladiator/Images/body_t2
+	bounds: 516, 357, 83, 46
+ShieldGladiator/Images/body_t2
+	bounds: 516, 357, 83, 46
+Gladiator/Images/ef1
+	bounds: 1187, 188, 22, 18
+	offsets: 1, 1, 25, 20
+	rotate: 90
+Guard/Images/ef1
+	bounds: 1187, 188, 22, 18
+	offsets: 1, 1, 25, 20
+	rotate: 90
+Lobber/Images/ef1
+	bounds: 1187, 188, 22, 18
+	offsets: 1, 1, 25, 20
+	rotate: 90
+Rifter/Images/ef1
+	bounds: 1187, 188, 22, 18
+	offsets: 1, 1, 25, 20
+	rotate: 90
+Rumbler/Images/ef1
+	bounds: 1187, 188, 22, 18
+	offsets: 1, 1, 25, 20
+	rotate: 90
+ShadowBlade/Images/ef1
+	bounds: 1187, 188, 22, 18
+	offsets: 1, 1, 25, 20
+	rotate: 90
+ShieldGladiator/Images/ef1
+	bounds: 1187, 188, 22, 18
+	offsets: 1, 1, 25, 20
+	rotate: 90
+Gladiator/Images/ef2
+	bounds: 444, 1, 11, 21
+	offsets: 2, 1, 13, 23
+	rotate: 90
+Guard/Images/ef2
+	bounds: 444, 1, 11, 21
+	offsets: 2, 1, 13, 23
+	rotate: 90
+Lobber/Images/ef2
+	bounds: 444, 1, 11, 21
+	offsets: 2, 1, 13, 23
+	rotate: 90
+Rifter/Images/ef2
+	bounds: 444, 1, 11, 21
+	offsets: 2, 1, 13, 23
+	rotate: 90
+Rumbler/Images/ef2
+	bounds: 444, 1, 11, 21
+	offsets: 2, 1, 13, 23
+	rotate: 90
+ShadowBlade/Images/ef2
+	bounds: 444, 1, 11, 21
+	offsets: 2, 1, 13, 23
+	rotate: 90
+ShieldGladiator/Images/ef2
+	bounds: 444, 1, 11, 21
+	offsets: 2, 1, 13, 23
+	rotate: 90
+Gladiator/Images/ef3
+	bounds: 283, 1, 24, 9
+	offsets: 1, 0, 25, 11
+Guard/Images/ef3
+	bounds: 283, 1, 24, 9
+	offsets: 1, 0, 25, 11
+Lobber/Images/ef3
+	bounds: 283, 1, 24, 9
+	offsets: 1, 0, 25, 11
+Rifter/Images/ef3
+	bounds: 283, 1, 24, 9
+	offsets: 1, 0, 25, 11
+Rumbler/Images/ef3
+	bounds: 283, 1, 24, 9
+	offsets: 1, 0, 25, 11
+ShadowBlade/Images/ef3
+	bounds: 283, 1, 24, 9
+	offsets: 1, 0, 25, 11
+ShieldGladiator/Images/ef3
+	bounds: 283, 1, 24, 9
+	offsets: 1, 0, 25, 11
+Gladiator/Images/ef4
+	bounds: 214, 1, 8, 3
+	offsets: 0, 0, 9, 3
+Guard/Images/ef4
+	bounds: 214, 1, 8, 3
+	offsets: 0, 0, 9, 3
+Lobber/Images/ef4
+	bounds: 214, 1, 8, 3
+	offsets: 0, 0, 9, 3
+Rifter/Images/ef4
+	bounds: 214, 1, 8, 3
+	offsets: 0, 0, 9, 3
+Rumbler/Images/ef4
+	bounds: 214, 1, 8, 3
+	offsets: 0, 0, 9, 3
+ShadowBlade/Images/ef4
+	bounds: 214, 1, 8, 3
+	offsets: 0, 0, 9, 3
+ShieldGladiator/Images/ef4
+	bounds: 214, 1, 8, 3
+	offsets: 0, 0, 9, 3
+Gladiator/Images/eye1
+	bounds: 774, 238, 27, 25
+	offsets: 1, 0, 29, 26
+	rotate: 90
+ShieldGladiator/Images/eye1
+	bounds: 774, 238, 27, 25
+	offsets: 1, 0, 29, 26
+	rotate: 90
+Gladiator/Images/eye2
+	bounds: 978, 154, 27, 23
+	offsets: 0, 0, 27, 24
+ShieldGladiator/Images/eye2
+	bounds: 978, 154, 27, 23
+	offsets: 0, 0, 27, 24
+Gladiator/Images/eye3
+	bounds: 1260, 487, 24, 22
+	offsets: 1, 0, 26, 22
+	rotate: 90
+ShieldGladiator/Images/eye3
+	bounds: 1260, 487, 24, 22
+	offsets: 1, 0, 26, 22
+	rotate: 90
+Gladiator/Images/hand_L
+	bounds: 1075, 154, 30, 41
+	rotate: 90
+ShieldGladiator/Images/hand_L
+	bounds: 1075, 154, 30, 41
+	rotate: 90
+Gladiator/Images/hand_L2
+	bounds: 899, 1, 38, 68
+ShieldGladiator/Images/hand_L2
+	bounds: 899, 1, 38, 68
+Gladiator/Images/hand_L22
+	bounds: 1268, 365, 13, 17
+ShieldGladiator/Images/hand_L22
+	bounds: 1268, 365, 13, 17
+Gladiator/Images/hand_R
+	bounds: 1118, 154, 38, 32
+ShieldGladiator/Images/hand_R
+	bounds: 1118, 154, 38, 32
+Gladiator/Images/hand_R2_k1
+	bounds: 258, 195, 31, 38
+	rotate: 90
+ShieldGladiator/Images/hand_R2_k1
+	bounds: 258, 195, 31, 38
+	rotate: 90
+Gladiator/Images/hand_R2_k2
+	bounds: 91, 325, 30, 63
+	rotate: 90
+ShieldGladiator/Images/hand_R2_k2
+	bounds: 91, 325, 30, 63
+	rotate: 90
+Gladiator/Images/head
+	bounds: 1245, 292, 19, 19
+ShieldGladiator/Images/head
+	bounds: 1245, 292, 19, 19
+Gladiator/Images/head2
+	bounds: 1282, 452, 13, 13
+ShieldGladiator/Images/head2
+	bounds: 1282, 452, 13, 13
+Gladiator/Images/head3
+	bounds: 1233, 363, 19, 19
+ShieldGladiator/Images/head3
+	bounds: 1233, 363, 19, 19
+Gladiator/Images/head_n1
+	bounds: 726, 153, 62, 83
+ShieldGladiator/Images/head_n1
+	bounds: 726, 153, 62, 83
+Gladiator/Images/head_n2
+	bounds: 839, 70, 82, 40
+	rotate: 90
+ShieldGladiator/Images/head_n2
+	bounds: 839, 70, 82, 40
+	rotate: 90
+Gladiator/Images/head_n3
+	bounds: 1107, 371, 29, 36
+	offsets: 0, 1, 29, 37
+	rotate: 90
+ShieldGladiator/Images/head_n3
+	bounds: 1107, 371, 29, 36
+	offsets: 0, 1, 29, 37
+	rotate: 90
+Gladiator/Images/hilt
+	bounds: 958, 71, 23, 27
+	rotate: 90
+ShieldGladiator/Images/hilt
+	bounds: 958, 71, 23, 27
+	rotate: 90
+Gladiator/Images/leg_L
+	bounds: 976, 290, 69, 51
+	rotate: 90
+ShieldGladiator/Images/leg_L
+	bounds: 976, 290, 69, 51
+	rotate: 90
+Gladiator/Images/leg_L_ef
+	bounds: 1185, 286, 19, 14
+ShieldGladiator/Images/leg_L_ef
+	bounds: 1185, 286, 19, 14
+Gladiator/Images/leg_R2
+	bounds: 635, 1, 37, 91
+	rotate: 90
+ShieldGladiator/Images/leg_R2
+	bounds: 635, 1, 37, 91
+	rotate: 90
+Gladiator/Images/leg_R22
+	bounds: 594, 238, 6, 15
+	rotate: 90
+ShieldGladiator/Images/leg_R22
+	bounds: 594, 238, 6, 15
+	rotate: 90
+Gladiator/Images/sword
+	bounds: 626, 40, 87, 99
+ShieldGladiator/Images/sword
+	bounds: 626, 40, 87, 99
+Gladiator/Images/sword_ef
+	bounds: 1261, 384, 12, 16
+	offsets: 0, 0, 13, 17
+	rotate: 90
+Guard/Images/Scapulars_L
+	bounds: 1147, 286, 36, 36
+	offsets: 0, 1, 36, 37
+Guard/Images/Scapulars_R
+	bounds: 1107, 283, 38, 36
+	offsets: 1, 1, 40, 38
+Guard/Images/Scapulars_R2
+	bounds: 615, 246, 6, 6
+Guard/Images/Sprait_hook
+	bounds: 722, 427, 84, 73
+	offsets: 1, 1, 86, 75
+	rotate: 90
+Guard/Images/body
+	bounds: 715, 62, 65, 83
+	offsets: 1, 1, 67, 84
+Guard/Images/body2
+	bounds: 1163, 212, 19, 24
+Guard/Images/eyl1
+	bounds: 1254, 347, 15, 15
+Guard/Images/eyl12
+	bounds: 1275, 434, 15, 15
+Guard/Images/eyl2
+	bounds: 358, 2, 8, 14
+	rotate: 90
+Guard/Images/eyl22
+	bounds: 374, 2, 8, 14
+	rotate: 90
+Guard/Images/hand_L
+	bounds: 1168, 473, 38, 34
+	offsets: 0, 2, 39, 37
+	rotate: 90
+Guard/Images/hand_L2
+	bounds: 1200, 304, 24, 29
+	offsets: 1, 0, 25, 29
+Guard/Images/hand_L3
+	bounds: 1159, 71, 29, 31
+	offsets: 1, 1, 30, 33
+Guard/Images/hand_R
+	bounds: 834, 360, 44, 65
+	offsets: 0, 0, 45, 66
+Guard/Images/hand_R2
+	bounds: 728, 1, 37, 44
+	rotate: 90
+Guard/Images/hand_R22
+	bounds: 1264, 467, 13, 18
+Guard/Images/hand_R23
+	bounds: 1279, 467, 13, 18
+Guard/Images/hand_R3
+	bounds: 1014, 71, 29, 26
+	offsets: 1, 1, 30, 27
+Guard/Images/hand_R32
+	bounds: 1060, 72, 28, 26
+	offsets: 1, 1, 30, 27
+Guard/Images/hand_Rv2
+	bounds: 867, 238, 35, 43
+	rotate: 90
+Guard/Images/head
+	bounds: 790, 154, 46, 82
+	offsets: 1, 0, 47, 83
+Guard/Images/head2
+	bounds: 1193, 238, 13, 23
+	rotate: 90
+Guard/Images/head3
+	bounds: 1192, 163, 13, 23
+Guard/Images/leg_L
+	bounds: 404, 357, 34, 54
+	offsets: 0, 1, 35, 55
+	rotate: 90
+Guard/Images/leg_L2
+	bounds: 985, 238, 50, 42
+	offsets: 1, 1, 51, 44
+Guard/Images/leg_L3
+	bounds: 1160, 252, 32, 18
+	offsets: 0, 1, 33, 20
+	rotate: 90
+Guard/Images/leg_L_v2_1
+	bounds: 1131, 20, 49, 22
+	rotate: 90
+Guard/Images/leg_L_v2_2
+	bounds: 296, 357, 13, 32
+	offsets: 1, 0, 14, 32
+	rotate: 90
+Guard/Images/leg_R
+	bounds: 1049, 448, 28, 63
+	offsets: 1, 1, 30, 65
+Guard/Images/leg_R2
+	bounds: 1057, 186, 36, 50
+	offsets: 1, 1, 38, 51
+Guard/Images/leg_R3
+	bounds: 1184, 212, 24, 19
+	offsets: 1, 0, 26, 19
+	rotate: 90
+Guard/Images/leg_R_v2_1
+	bounds: 708, 238, 37, 27
+Guard/Images/leg_R_v2_2
+	bounds: 1160, 238, 12, 31
+	offsets: 0, 1, 12, 33
+	rotate: 90
+Guard/Images/nose
+	bounds: 1180, 253, 24, 31
+	offsets: 0, 1, 24, 32
+Guard/Images/spear
+	bounds: 35, 145, 10, 178
+	offsets: 2, 1, 13, 180
+Guard/Images/sword_ef_v2_12
+	bounds: 467, 1, 33, 51
+	offsets: 0, 0, 33, 54
+	rotate: 90
+Guard/Images/sword_ef_v2_2
+	bounds: 308, 377, 13, 20
+	rotate: 90
+Guard/Images/sword_ef_v3_1
+	bounds: 336, 2, 8, 20
+	offsets: 1, 0, 10, 21
+	rotate: 90
+Guard/Images/tail
+	bounds: 607, 141, 48, 95
+	offsets: 0, 1, 49, 96
+Guard/Images/textile
+	bounds: 880, 358, 39, 74
+	offsets: 0, 1, 39, 75
+Lobber/Images/Layer 1
+	bounds: 1163, 188, 22, 22
+	offsets: 1, 1, 24, 24
+Lobber/Images/Layer 2
+	bounds: 1294, 476, 12, 15
+	offsets: 1, 1, 14, 17
+Lobber/Images/Leg_L
+	bounds: 1141, 104, 48, 39
+	offsets: 1, 1, 49, 40
+	rotate: 90
+Lobber/Images/Leg_L_ef
+	bounds: 1249, 335, 13, 10
+Lobber/Images/Leg_R
+	bounds: 569, 1, 35, 64
+	offsets: 1, 1, 37, 66
+	rotate: 90
+Lobber/Images/back
+	bounds: 782, 69, 55, 82
+	offsets: 1, 1, 57, 84
+Lobber/Images/back2
+	bounds: 881, 71, 81, 75
+	offsets: 1, 1, 83, 77
+	rotate: 90
+Lobber/Images/back_ef
+	bounds: 1298, 498, 13, 12
+	rotate: 90
+Lobber/Images/backef
+	bounds: 1284, 493, 12, 18
+	offsets: 0, 0, 13, 19
+Lobber/Images/beak_1
+	bounds: 1204, 478, 33, 33
+	offsets: 1, 1, 35, 35
+Lobber/Images/beak_b
+	bounds: 1116, 71, 30, 21
+	offsets: 1, 1, 32, 23
+	rotate: 90
+Lobber/Images/body
+	bounds: 517, 141, 88, 94
+	offsets: 1, 1, 90, 96
+Lobber/Images/body2
+	bounds: 1007, 154, 24, 27
+	offsets: 1, 0, 25, 27
+Lobber/Images/egg
+	bounds: 1158, 154, 32, 32
+	offsets: 1, 1, 34, 34
+Lobber/Images/egg_n1
+	bounds: 673, 238, 26, 33
+	offsets: 1, 1, 28, 35
+	rotate: 90
+Lobber/Images/egg_n2
+	bounds: 1198, 414, 25, 32
+	offsets: 1, 1, 27, 34
+Lobber/Images/egg_n3
+	bounds: 1180, 335, 25, 33
+	offsets: 1, 1, 27, 35
+Lobber/Images/egg_sprait
+	bounds: 1190, 71, 32, 32
+	offsets: 1, 1, 34, 34
+Lobber/Images/eye
+	bounds: 454, 20, 11, 14
+	offsets: 1, 1, 13, 16
+Lobber/Images/hand_L1
+	bounds: 386, 141, 36, 52
+	offsets: 1, 1, 38, 54
+Lobber/Images/hand_L2
+	bounds: 162, 141, 51, 23
+	offsets: 1, 1, 53, 25
+Lobber/Images/hand_L3
+	bounds: 1176, 23, 46, 40
+	offsets: 1, 1, 48, 42
+	rotate: 90
+Lobber/Images/hand_L3_back
+	bounds: 1207, 347, 29, 24
+	offsets: 1, 1, 31, 26
+	rotate: 90
+Lobber/Images/hand_R1
+	bounds: 947, 179, 53, 57
+	offsets: 1, 1, 55, 59
+Lobber/Images/hand_R2
+	bounds: 1028, 17, 28, 52
+	offsets: 1, 1, 30, 54
+Lobber/Images/hand_R3
+	bounds: 156, 325, 30, 54
+	offsets: 1, 1, 32, 56
+	rotate: 90
+Lobber/Images/head
+	bounds: 454, 36, 74, 103
+	offsets: 1, 1, 76, 105
+Lobber/Images/head2
+	bounds: 1070, 373, 25, 35
+	rotate: 90
+Lobber/Images/head3
+	bounds: 1163, 370, 25, 35
+Lobber/Images/leg_L2
+	bounds: 1028, 371, 69, 40
+	offsets: 1, 1, 71, 43
+	rotate: 90
+Lobber/Images/leg_l_n1
+	bounds: 467, 393, 31, 10
+Lobber/Images/leg_r1
+	bounds: 282, 141, 64, 52
+	offsets: 1, 1, 66, 54
+Lobber/Images/tail
+	bounds: 939, 4, 49, 65
+	offsets: 1, 1, 51, 67
+Lobber/Images/tail2
+	bounds: 1231, 335, 10, 16
+	offsets: 0, 0, 13, 16
+	rotate: 90
+Rifter/Images/brain
+	bounds: 424, 141, 91, 94
+	offsets: 1, 1, 93, 96
+Rifter/Images/brain2
+	bounds: 1275, 419, 13, 12
+	offsets: 0, 1, 13, 13
+	rotate: 90
+Rifter/Images/brain3
+	bounds: 1259, 418, 12, 11
+	offsets: 1, 2, 13, 13
+Rifter/Images/brain4
+	bounds: 1275, 404, 13, 12
+	offsets: 0, 0, 13, 13
+	rotate: 90
+Rifter/Images/eye
+	bounds: 1103, 239, 29, 41
+	offsets: 1, 1, 31, 43
+Rifter/Images/eye_off
+	bounds: 402, 208, 20, 27
+	offsets: 0, 1, 21, 28
+Rifter/Images/gl1
+	bounds: 1029, 302, 57, 32
+	offsets: 1, 2, 59, 35
+	rotate: 90
+Rifter/Images/gl2
+	bounds: 512, 246, 101, 109
+	offsets: 1, 1, 104, 111
+Rifter/Images/gl3
+	bounds: 539, 237, 7, 7
+	offsets: 3, 3, 13, 13
+Rifter/Images/gl4
+	bounds: 990, 17, 36, 52
+	offsets: 1, 2, 38, 56
+Rifter/Images/head
+	bounds: 47, 166, 157, 123
+	offsets: 1, 1, 159, 127
+	rotate: 90
+Rifter/Images/head2
+	bounds: 1239, 486, 25, 19
+	offsets: 0, 0, 25, 20
+	rotate: 90
+Rifter/Images/head3
+	bounds: 1205, 212, 24, 19
+	offsets: 1, 0, 25, 20
+	rotate: 90
+Rifter/Images/head4
+	bounds: 1079, 448, 24, 17
+	offsets: 1, 0, 25, 20
+Rifter/Images/illumination
+	bounds: 325, 1, 9, 9
+Rifter/Images/tentacle 1
+	bounds: 308, 392, 74, 119
+	offsets: 0, 0, 76, 120
+Rifter/Images/tentacle 2
+	bounds: 1, 141, 32, 182
+	offsets: 0, 1, 33, 183
+Rifter/Images/tentacle 3
+	bounds: 379, 237, 54, 118
+	offsets: 1, 1, 55, 120
+Rifter/Images/tentacle 4
+	bounds: 185, 368, 78, 143
+	offsets: 0, 0, 78, 144
+Rifter/Images/tentacle 5
+	bounds: 91, 357, 76, 154
+Rifter/Images/tentacle 8
+	bounds: 1, 325, 88, 186
+Rifter/Images/tentacle 9
+	bounds: 760, 357, 68, 72
+	offsets: 0, 0, 68, 73
+	rotate: 90
+Rifter/Images/tentacle-12
+	bounds: 574, 238, 6, 18
+	offsets: 0, 0, 13, 20
+	rotate: 90
+Rifter/Images/tentacle2
+	bounds: 1279, 389, 13, 12
+	offsets: 0, 0, 13, 13
+	rotate: 90
+Rifter/Images/tentacle22
+	bounds: 548, 238, 6, 24
+	offsets: 0, 0, 6, 35
+	rotate: 90
+Rifter/Images/tentacle32
+	bounds: 782, 62, 5, 12
+	offsets: 1, 0, 6, 14
+	rotate: 90
+Rifter/Images/tentacle42
+	bounds: 1157, 448, 13, 21
+	offsets: 0, 0, 13, 23
+Rifter/Images/tentacle52
+	bounds: 1226, 313, 13, 20
+	offsets: 0, 0, 13, 26
+Rifter/Images/tentacle82
+	bounds: 1045, 71, 13, 27
+Rumbler/Images/Body
+	bounds: 624, 408, 96, 103
+	offsets: 1, 2, 98, 105
+Rumbler/Images/Body2
+	bounds: 1224, 282, 19, 20
+Rumbler/Images/Body3
+	bounds: 1236, 260, 19, 20
+Rumbler/Images/Face
+	bounds: 1058, 18, 51, 48
+	offsets: 0, 1, 52, 49
+	rotate: 90
+Rumbler/Images/Forearm
+	bounds: 774, 1, 59, 39
+	offsets: 0, 1, 61, 41
+	rotate: 90
+Rumbler/Images/Leg_2_1_R
+	bounds: 1040, 100, 21, 52
+	offsets: 0, 1, 22, 53
+Rumbler/Images/Leg_2_2_R
+	bounds: 1134, 238, 24, 43
+	offsets: 1, 1, 26, 45
+Rumbler/Images/Leg_2_2_R2
+	bounds: 1105, 448, 17, 23
+	offsets: 0, 1, 18, 25
+	rotate: 90
+Rumbler/Images/Leg_2_2_R22
+	bounds: 1172, 448, 22, 23
+	offsets: 1, 1, 24, 25
+Rumbler/Images/Shell
+	bounds: 1, 1, 138, 89
+	offsets: 4, 1, 142, 90
+	rotate: 90
+Rumbler/Images/Shell2
+	bounds: 1254, 364, 18, 12
+	offsets: 1, 0, 19, 12
+	rotate: 90
+Rumbler/Images/Shell3
+	bounds: 1261, 398, 18, 12
+	offsets: 1, 0, 19, 12
+	rotate: 90
+Rumbler/Images/Shell4
+	bounds: 309, 1, 14, 9
+	offsets: 1, 0, 19, 12
+Rumbler/Images/Shell_back
+	bounds: 921, 361, 72, 56
+	offsets: 0, 2, 73, 58
+	rotate: 90
+Rumbler/Images/claw
+	bounds: 298, 195, 31, 37
+	offsets: 0, 1, 32, 39
+	rotate: 90
+Rumbler/Images/ef
+	bounds: 1241, 313, 12, 20
+	offsets: 1, 1, 13, 22
+Rumbler/Images/leg_1_1
+	bounds: 1061, 238, 22, 42
+	offsets: 1, 0, 24, 45
+Rumbler/Images/leg_1_12
+	bounds: 1255, 314, 19, 19
+	offsets: 1, 1, 21, 21
+Rumbler/Images/leg_1_2_L
+	bounds: 1155, 20, 19, 49
+	offsets: 0, 0, 20, 50
+Rumbler/Images/leg_l_v2
+	bounds: 1139, 71, 30, 18
+	rotate: 90
+Rumbler/Images/leg_l_v22
+	bounds: 1185, 302, 31, 13
+	rotate: 90
+Rumbler/Images/leg_l_v23
+	bounds: 1233, 347, 14, 19
+	rotate: 90
+Rumbler/Images/leg_l_v24
+	bounds: 722, 409, 16, 36
+	rotate: 90
+Rumbler/Images/legback
+	bounds: 1054, 154, 19, 27
+	offsets: 1, 2, 21, 29
+Rumbler/Images/legback2
+	bounds: 1225, 418, 16, 28
+	offsets: 0, 1, 16, 30
+Rumbler/Images/light
+	bounds: 1085, 238, 42, 16
+	offsets: 2, 2, 46, 19
+	rotate: 90
+Rumbler/Images/lower_claw
+	bounds: 530, 38, 101, 54
+	offsets: 1, 1, 103, 56
+	rotate: 90
+Rumbler/Images/lower_claw2
+	bounds: 512, 237, 13, 7
+Rumbler/Images/lower_claw3
+	bounds: 611, 238, 13, 6
+	offsets: 0, 1, 13, 7
+Rumbler/Images/upper_claw
+	bounds: 838, 154, 82, 43
+	offsets: 3, 6, 86, 49
+	rotate: 90
+Rumbler/Images/upper_claw2
+	bounds: 601, 357, 78, 47
+	offsets: 1, 1, 80, 49
+ShadowBlade/Images/Foot_L
+	bounds: 1224, 1, 20, 44
+	offsets: 1, 1, 22, 46
+	rotate: 90
+ShadowBlade/Images/Foot_L2
+	bounds: 990, 1, 14, 34
+	offsets: 1, 1, 16, 35
+	rotate: 90
+ShadowBlade/Images/Foot_L3
+	bounds: 815, 1, 66, 29
+	offsets: 1, 1, 68, 31
+	rotate: 90
+ShadowBlade/Images/Foot_R2
+	bounds: 47, 141, 56, 23
+	offsets: 2, 1, 60, 25
+ShadowBlade/Images/Head
+	bounds: 1063, 101, 51, 40
+	offsets: 1, 1, 53, 42
+	rotate: 90
+ShadowBlade/Images/Head2
+	bounds: 1167, 412, 29, 34
+	offsets: 2, 2, 32, 36
+ShadowBlade/Images/Head22
+	bounds: 1283, 375, 12, 12
+	offsets: 1, 1, 13, 14
+ShadowBlade/Images/Headv2
+	bounds: 1243, 430, 19, 14
+	offsets: 0, 0, 19, 15
+	rotate: 90
+ShadowBlade/Images/Headv3
+	bounds: 1259, 431, 18, 14
+	offsets: 1, 0, 19, 15
+	rotate: 90
+ShadowBlade/Images/Leg_R
+	bounds: 1079, 467, 44, 29
+	offsets: 1, 2, 59, 32
+	rotate: 90
+ShadowBlade/Images/Leg_R2
+	bounds: 1149, 407, 16, 39
+	offsets: 0, 1, 17, 40
+ShadowBlade/Images/body
+	bounds: 564, 406, 58, 105
+	offsets: 0, 1, 59, 107
+ShadowBlade/Images/body2
+	bounds: 1101, 402, 24, 44
+	offsets: 0, 1, 25, 46
+ShadowBlade/Images/body3
+	bounds: 1221, 384, 19, 28
+	offsets: 0, 0, 19, 34
+ShadowBlade/Images/ef_3
+	bounds: 1028, 361, 8, 10
+	offsets: 2, 1, 13, 13
+	rotate: 90
+ShadowBlade/Images/ef_32
+	bounds: 859, 427, 6, 5
+	offsets: 4, 1, 13, 13
+ShadowBlade/Images/eye
+	bounds: 1207, 335, 22, 10
+	offsets: 1, 2, 25, 13
+ShadowBlade/Images/eye2
+	bounds: 1026, 1, 27, 14
+	offsets: 1, 1, 29, 17
+ShadowBlade/Images/eyl_l
+	bounds: 993, 362, 6, 10
+	rotate: 90
+ShadowBlade/Images/eyl_l2
+	bounds: 527, 237, 7, 10
+	rotate: 90
+ShadowBlade/Images/eyl_r1
+	bounds: 1243, 418, 13, 10
+ShadowBlade/Images/eyl_r2
+	bounds: 500, 393, 14, 10
+ShadowBlade/Images/feathers
+	bounds: 1070, 400, 46, 29
+	offsets: 4, 4, 51, 34
+	rotate: 90
+ShadowBlade/Images/forearm_L
+	bounds: 1009, 99, 29, 53
+	offsets: 1, 1, 31, 56
+ShadowBlade/Images/forearm_R
+	bounds: 907, 435, 76, 28
+	offsets: 1, 1, 78, 31
+	rotate: 90
+ShadowBlade/Images/forearm_R2
+	bounds: 520, 1, 47, 33
+	offsets: 1, 1, 49, 35
+ShadowBlade/Images/forearm_Rv2
+	bounds: 657, 141, 12, 4
+	offsets: 0, 0, 13, 5
+ShadowBlade/Images/hip_L
+	bounds: 330, 357, 72, 33
+	offsets: 1, 1, 74, 35
+ShadowBlade/Images/hip_L2
+	bounds: 979, 362, 12, 6
+	offsets: 0, 0, 13, 6
+ShadowBlade/Images/hip_R
+	bounds: 460, 357, 34, 54
+	offsets: 1, 1, 36, 56
+	rotate: 90
+ShadowBlade/Images/hip_R2
+	bounds: 715, 40, 57, 20
+	offsets: 2, 1, 62, 22
+ShadowBlade/Images/hip_R22
+	bounds: 796, 62, 11, 5
+	offsets: 1, 0, 13, 5
+ShadowBlade/Images/palm
+	bounds: 337, 195, 32, 31
+	offsets: 1, 1, 45, 41
+ShadowBlade/Images/shoulder
+	bounds: 1176, 1, 46, 20
+	offsets: 0, 3, 55, 27
+ShadowBlade/Images/shoulder_L
+	bounds: 105, 141, 55, 23
+	offsets: 1, 2, 57, 26
+ShadowBlade/Images/shoulder_L2
+	bounds: 976, 282, 13, 6
+ShadowBlade/Images/sword
+	bounds: 172, 2, 29, 137
+	offsets: 1, 1, 31, 139
+ShadowBlade/Images/sword2
+	bounds: 265, 372, 41, 139
+	offsets: 1, 1, 44, 141
+ShadowBlade/Images/sword_ef
+	bounds: 1271, 347, 12, 16
+	offsets: 0, 0, 13, 17
+ShadowBlade/Images/tail
+	bounds: 781, 272, 38, 83
+	offsets: 1, 1, 40, 85
+ShieldGladiator/Images/Shield
+	bounds: 376, 14, 76, 125
+ShieldGladiator/Images/Shield2
+	bounds: 1206, 257, 13, 21
+ShieldGladiator/Images/Shield3
+	bounds: 1221, 257, 13, 21
+ShieldGladiator/Images/sword_ef
+	bounds: 797, 427, 60, 84
+	offsets: 1, 0, 64, 86
