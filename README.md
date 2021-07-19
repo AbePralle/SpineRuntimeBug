@@ -1,7 +1,7 @@
 # SpineRuntimeBug
 Simple demo to illustrate a Spine runtime bug.
 
-I'm getting a fairly consistent bug with a particular pair of animations from `Character.json` when queued in sequence: `attack_hook_throw` and `attack_hook_pull`. Everything is fine at first and then suddenly the vertex coordinates are wildly inaccurate. It looks like a missing initialization + garbage memory issue as the numbers are different every time. There is about a 50% chance it will happen any given animation playthrough.
+I'm getting a fairly consistent bug with a particular pair of animations from `Character.json` when queued in sequence: `attack_hook_throw` and `attack_hook_pull`. Everything is fine at first and then suddenly the vertex coordinates of a particular attachment are wildly inaccurate. It looks like a missing initialization + garbage memory issue as the coordinates are different every time once they become corrupted. There is about a 50% chance it will happen any given animation playthrough.
 
 # USAGE
 
